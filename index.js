@@ -4,7 +4,7 @@ const port = 8000;
 http.createServer(function(req, res) {
   res.writeHead(200, { "Content-Type": "text/html" });
   
-  // Simple HTML content about you
+  // Simple HTML content about me
   const html = `
     <!DOCTYPE html>
     <html>
@@ -27,7 +27,7 @@ http.createServer(function(req, res) {
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
           }
           h1 {
-            color: #007acc;
+            color: rgba(221, 59, 59, 1);
           }
         </style>
       </head>
@@ -39,7 +39,7 @@ http.createServer(function(req, res) {
           <p>Here’s a little about me:</p>
           <ul>
             <li><strong>Hobbies:</strong> Reading, gaming, coding</li>
-            <li><strong>Skills:</strong> JavaScript, HTML, CSS</li>
+            <li><strong>Skills:</strong> JavaScript, HTML, Python</li>
             <li><strong>Goal:</strong> To become a full-stack developer</li>
           </ul>
         </div>
