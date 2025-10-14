@@ -35,7 +35,7 @@ http.createServer(function(req, res) {
         <div class="container">
           <h1>Hello, I'm Danny Kadir</h1>
           <p>Welcome to my personal web page!</p>
-          <p>I’m a web enthusiast who enjoys learning about coding, technology, and creative projects.</p>
+          <p>Im in third Year University, studying Computer Sceince, i enjoy coding and playing Games..</p>
           <p>Here’s a little about me:</p>
           <ul>
             <li><strong>Hobbies:</strong> Reading, gaming, coding</li>
