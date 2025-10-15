@@ -27,7 +27,7 @@ http.createServer(function(req, res) {
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
           }
           h1 {
-            color: rgba(221, 59, 59, 1);
+            color: rgba(65,105,225,1);
           }
         </style>
       </head>
