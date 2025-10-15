@@ -33,14 +33,14 @@ http.createServer(function(req, res) {
       </head>
       <body>
         <div class="container">
-          <h1>Hello, I'm Danny Kadir</h1>
-          <p>Welcome to my personal web page!</p>
-          <p>Im in third Year University, studying Computer Sceince, i enjoy coding and playing Games..</p>
-          <p>Here’s a little about me:</p>
+          <h1>Hello, Im Danny Kadir</h1>
+          <p>Welcome to my Web Page!</p>
+          <p>I am in third year, Studying Computer Science, I enjoy coding and playing games!</p>
+          <p>Here is a little about me:</p>
           <ul>
-            <li><strong>Hobbies:</strong> Reading, gaming, coding</li>
+            <li><strong>Hobbies:</strong> Reading, gaming, coding and going to the gym </li>
             <li><strong>Skills:</strong> JavaScript, HTML, Python</li>
-            <li><strong>Goal:</strong> To become a full-stack developer</li>
+            <li><strong>Goal:</strong> To become a Full-stack Developer</li>
           </ul>
         </div>
       </body>
